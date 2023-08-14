@@ -1,0 +1,2 @@
+import { Billboard } from "@/types";
+
